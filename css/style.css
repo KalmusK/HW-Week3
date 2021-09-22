@@ -49,6 +49,10 @@
     font-size: 20px;
 }
 
+.heading2 {
+    color: rgb(13, 0, 192);
+}
+
 .ingredients-table {
     border: 5px solid rgb(255, 0, 0);
     margin: 0 auto;
@@ -66,6 +70,12 @@
     
 }
 
+.heading3 {
+    color: rgb(13, 0, 192);
+    font-size: 30px;
+    text-align: center;
+}
+
 .instructions ol {
     border: 5px solid rgb(255, 0, 0);
     width: 75%;
@@ -77,6 +87,7 @@
 .music {
     text-align: center;
     font-family: 'Fjalla One', sans-serif;
+    color: rgb(126, 0, 0);
 }
 
 .footer{
