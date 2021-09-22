@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Fjalla+One&family=Grechen+Fuemen&family=Patrick+Hand&family=Shadows+Into+Light&display=swap');body {
+    background-color: rgb(252, 201, 134);
+}
+
+.heading {
+    color: rgb(255, 0, 43);
+    font-size: 75px;
+    text-align: center;
+    font-family: 'Grechen Fuemen', cursive;
+}
+
+.hrnew1 {
+    border: 4px solid rgb(255, 251, 0);
+    border-radius: 4px;
+}
+
+.pzwarmup {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 400px;
+    border-radius: 50%;
+}
+
+.main {
+    color: black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.hrnew2 {
+    border: 3px solid yellow;
+    border-radius: 3px;
+}
+
+.warmup {
+    color: rgb(177, 11, 108);
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+}
+
+.ingredients {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border: 5px solid rgb(238, 6, 226);
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+}
+
+.ingredients-table {
+    border: 5px solid rgb(255, 0, 0);
+    margin: 0 auto;
+    color: rgb(0, 160, 40);
+
+}
+
+.instructions {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border: 5px solid rgb(238, 6, 226);
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Patrick Hand', cursive;
+    
+}
+
+.instructions ol {
+    border: 5px solid rgb(255, 0, 0);
+    width: 75%;
+    margin: 0 auto;
+    color: rgb(0, 160, 40);
+    font-size: 25px;
+}
+
+.music {
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.footer{
+    color: purple;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Grechen Fuemen', cursive;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
